@@ -1,2 +1,0 @@
-# Indosat
-Bom
